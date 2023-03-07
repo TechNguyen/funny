@@ -1,0 +1,10 @@
+.form {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+}
+.count-btn, 
+.delete-btn {
+  justify-content: center;
+  cursor: pointer;
+}
